@@ -1,5 +1,11 @@
 # viem
 
+## 2.13.8
+
+### Patch Changes
+
+- [#2375](https://github.com/wevm/viem/pull/2375) [`1d32988`](https://github.com/wevm/viem/commit/1d329882c6b37e722260a40c2745b8f0baa56bf9) Thanks [@ezynda3](https://github.com/ezynda3)! - Added API URL to `sei` chain.
+
 ## 2.13.7
 
 ### Patch Changes
